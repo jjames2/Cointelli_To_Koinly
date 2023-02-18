@@ -1,0 +1,12 @@
+Date,Sent Amount,Sent Currency,Received Amount,Received Currency,Fee Amount,Fee Currency,Net Worth Amount,Net Worth Currency,Label,Description,TxHash
+2021-11-24 00:11 UTC,90.0,USDC,0.004,BTC,,,,,,,
+2021-11-24 00:11 UTC,100.0,USDC,0.004,BTC,,,,,,,
+2021-11-24 00:11 UTC,200.0,USDC,0.004,BTC,,,,,,,
+2021-12-20 00:12 UTC,50.0,USDC,0.0065,BTC,,,,,,,
+2021-12-20 00:12 UTC,100.0,USDC,5000.0,XLM,,,,,,,
+2021-12-20 00:12 UTC,150.0,USDC,0.001,BTC,,,,,,,
+2021-12-20 00:12 UTC,190.0,USDC,3.0,LTC,,,,,,,
+2022-01-02 00:01 UTC,160.0,USDC,0.0075,BTC,,,,,,,
+2022-01-02 00:01 UTC,50.0,USDC,200.0,XRP,,,,,,,
+2022-01-02 00:01 UTC,250.0,USDC,275.0,XRP,,,,,,,
+2022-02-09 00:02 UTC,450.0,XRP,200.0,ADA,,,,,,,
